@@ -19,11 +19,6 @@ This project explores how U.S. adults perceive and understand intellectual prope
 - `survey/` – Questionnaire and survey design
 - `data/` – Cleaned and anonymized data used for analysis
 
-## 🔗 Resources
-
-- [View Tableau Dashboard](#) *(add link if published online)*
-- [Download Full Report (PDF)](report/IP_Awareness_Report.pdf)
-
 ## 🛠 Tools Used
 
 - Tableau
